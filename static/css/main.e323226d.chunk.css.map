@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/styles/styles.scss"],"names":[],"mappings":"AAAA,mBACC,WAAY,CACZ,YAAa,CACb,cAAe,CACf,eAAgB","file":"main.e323226d.chunk.css","sourcesContent":[".leaflet-container {\n\twidth: 600px;\n\theight: 600px;\n\tmax-width: 80vw;\n\tmax-height: 80vw;\n}\n"]}
