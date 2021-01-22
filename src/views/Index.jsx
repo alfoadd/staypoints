@@ -223,7 +223,7 @@ const getStayPoints = (points, meters, seconds) => {
 			}
 
 			//iterate
-			if (j === points.length) i++
+			if (j === points.length && i !== j) i++
 		}
 
 		//return the set of computed staypoints
